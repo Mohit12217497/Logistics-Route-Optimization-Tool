@@ -1,0 +1,65 @@
+[
+  {
+    "vehicleId": "VAN-001",
+    "driverName": "Alex Rodriguez",
+    "driverPhone": "+1-555-1001",
+    "capacity": {
+      "weight": 500,
+      "volume": 10
+    },
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [-74.006, 40.7128]
+    },
+    "status": "available",
+    "vehicleType": "van",
+    "fuelEfficiency": 12,
+    "averageSpeed": 35,
+    "workingHours": {
+      "start": "08:00",
+      "end": "18:00"
+    }
+  },
+  {
+    "vehicleId": "TRUCK-002",
+    "driverName": "Maria Garcia",
+    "driverPhone": "+1-555-1002",
+    "capacity": {
+      "weight": 1000,
+      "volume": 25
+    },
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [-73.9857, 40.7484]
+    },
+    "status": "available",
+    "vehicleType": "truck",
+    "fuelEfficiency": 8,
+    "averageSpeed": 30,
+    "workingHours": {
+      "start": "07:00",
+      "end": "19:00"
+    }
+  },
+  {
+    "vehicleId": "BIKE-003",
+    "driverName": "James Chen",
+    "driverPhone": "+1-555-1003",
+    "capacity": {
+      "weight": 50,
+      "volume": 1
+    },
+    "currentLocation": {
+      "type": "Point",
+      "coordinates": [-73.9731, 40.7614]
+    },
+    "status": "busy",
+    "vehicleType": "motorcycle",
+    "fuelEfficiency": 25,
+    "averageSpeed": 45,
+    "workingHours": {
+      "start": "09:00",
+      "end": "17:00"
+    }
+  }
+]

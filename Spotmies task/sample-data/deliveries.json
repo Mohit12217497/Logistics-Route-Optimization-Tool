@@ -1,0 +1,87 @@
+[
+  {
+    "address": "123 Main St, New York, NY 10001",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-73.9857, 40.7484]
+    },
+    "customerName": "John Smith",
+    "phoneNumber": "+1-555-0123",
+    "packageWeight": 2.5,
+    "packageVolume": 0.1,
+    "deliveryWindow": {
+      "start": "2024-01-20T09:00:00Z",
+      "end": "2024-01-20T17:00:00Z"
+    },
+    "priority": "high",
+    "specialInstructions": "Ring doorbell twice"
+  },
+  {
+    "address": "456 Broadway, New York, NY 10013",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-74.0059, 40.7589]
+    },
+    "customerName": "Sarah Johnson",
+    "phoneNumber": "+1-555-0456",
+    "packageWeight": 1.8,
+    "packageVolume": 0.05,
+    "deliveryWindow": {
+      "start": "2024-01-20T10:00:00Z",
+      "end": "2024-01-20T16:00:00Z"
+    },
+    "priority": "medium",
+    "specialInstructions": "Leave with concierge"
+  },
+  {
+    "address": "789 5th Ave, New York, NY 10022",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-73.9731, 40.7614]
+    },
+    "customerName": "Michael Brown",
+    "phoneNumber": "+1-555-0789",
+    "packageWeight": 3.2,
+    "packageVolume": 0.15,
+    "deliveryWindow": {
+      "start": "2024-01-20T11:00:00Z",
+      "end": "2024-01-20T18:00:00Z"
+    },
+    "priority": "urgent",
+    "specialInstructions": "Fragile - handle with care"
+  },
+  {
+    "address": "321 Park Ave, New York, NY 10010",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-73.9857, 40.7505]
+    },
+    "customerName": "Emily Davis",
+    "phoneNumber": "+1-555-0321",
+    "packageWeight": 0.8,
+    "packageVolume": 0.02,
+    "deliveryWindow": {
+      "start": "2024-01-20T13:00:00Z",
+      "end": "2024-01-20T19:00:00Z"
+    },
+    "priority": "low",
+    "specialInstructions": "Call before delivery"
+  },
+  {
+    "address": "654 Wall St, New York, NY 10005",
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [-74.0113, 40.7074]
+    },
+    "customerName": "Robert Wilson",
+    "phoneNumber": "+1-555-0654",
+    "packageWeight": 4.1,
+    "packageVolume": 0.25,
+    "deliveryWindow": {
+      "start": "2024-01-20T08:00:00Z",
+      "end": "2024-01-20T15:00:00Z"
+    },
+    "priority": "high",
+    "specialInstructions": "Business delivery - ask for reception"
+  }
+]
